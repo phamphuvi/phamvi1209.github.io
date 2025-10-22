@@ -5,11 +5,11 @@ Bạn chỉ cần **tìm & thay** các placeholder dạng dấu ngoặc nhọn, 
 
 ## 1) Chỉnh sửa nhanh (5–10 phút)
 Mở `index.html` và `script.js`, thay các nội dung sau:
-- `&lt;Tên bản thân&gt;`
-- `&lt;Chức danh / Vai trò&gt;`
+- `&lt;Phạm Phú Vĩ&gt;`
+- `&lt;Sinh Viên đại học Công Nghệ-Kỹ Thuật Cần Thơ&gt;`
 - `&lt;Mô tả 1-2 câu về bạn&gt;`
-- `&lt;email@example.com&gt;` (trong `index.html` để hiển thị, **và** trong `script.js` biến `YOUR_EMAIL` để form gửi mailto)
-- `&lt;SĐT hoặc Zalo&gt;`
+- `&lt;ppvi2101609@student.ctuet.edu.vn&gt;` (trong `index.html` để hiển thị, **và** trong `script.js` biến `YOUR_EMAIL` để form gửi mailto)
+- `&lt;0984810120&gt;`
 - Các mục trong **Dự án** và **Kỹ năng**
 
 > Lưu ý: Trong file HTML, dấu `<` `>` được viết dưới dạng `&lt;` `&gt;` để trình duyệt hiển thị đúng. Khi bạn sửa, có thể **giữ nguyên dấu** &lt;...&gt; hoặc thay hoàn toàn bằng chữ của bạn.
